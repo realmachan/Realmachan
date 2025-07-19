@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -36,7 +36,7 @@
             <a href="#contact" class="text-gray-600 hover:text-green-700 font-medium">Contact</a>
         </nav>
         <div class="flex items-center space-x-4">
-            <a href="https://wa.me/yourphonenumber" target="_blank" class="hidden md:block bg-green-500 text-white px-4 py-2 rounded-full hover:bg-green-600 transition duration-300">Chat on WhatsApp</a>
+            <a href="https://wa.me/9207074002" target="_blank" class="hidden md:block bg-green-500 text-white px-4 py-2 rounded-full hover:bg-green-600 transition duration-300">Chat on WhatsApp</a>
             <a href="https://www.instagram.com/yourinstagramhandle" target="_blank" class="hidden md:block text-red-500 hover:text-red-700">
                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-instagram"><rect x="2" y="2" width="20" height="20" rx="5" ry="5"></rect><path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z"></path><line x1="17.5" y1="6.5" x2="17.51" y2="6.5"></line></svg>
             </a>
@@ -50,8 +50,8 @@
         <div class="absolute inset-0 bg-black opacity-50"></div>
         <div class="z-10 text-center px-4">
             <h1 class="text-4xl md:text-6xl font-extrabold mb-4 animate-fade-in-up">Welcome to RealMachan</h1>
-            <p class="text-xl md:text-2xl font-light">Your trusted partner in real estate across tea plantations and hills.</p>
-            <p class="text-lg md:text-xl mt-2">Discover picturesque properties in Kochi and beyond, Kerala, India.</p>
+            <p class="text-xl md:text-2xl font-light">Your trusted partner in real estate.</p>
+            <p class="text-lg md:text-xl mt-2">Discover picturesque properties of Kerala beyond India.</p>
             <a href="#explore" class="mt-8 inline-block bg-green-600 text-white px-8 py-3 rounded-full text-lg font-semibold hover:bg-green-700 transition duration-300">Start Exploring</a>
         </div>
     </section>
@@ -190,7 +190,7 @@
         <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 max-w-5xl mx-auto">
             <div class="bg-white p-6 rounded-lg shadow-md hover:shadow-lg transition duration-300">
                 <h3 class="text-xl font-semibold mb-3 text-green-700">Curated Listings</h3>
-                <p class="text-gray-600">Access exclusive properties in prime locations across tea plantations and scenic hills.</p>
+                <p class="text-gray-600">Access exclusive properties in nature-rich destinations, perfect for peacefulliving or smart investment.</p>
             </div>
             <div class="bg-white p-6 rounded-lg shadow-md hover:shadow-lg transition duration-300">
                 <h3 class="text-xl font-semibold mb-3 text-green-700">Expert Guidance</h3>
@@ -226,7 +226,7 @@
         <h2 class="text-4xl font-bold text-center mb-8 text-gray-800">About RealMachan</h2>
         <div class="max-w-4xl mx-auto text-center text-lg text-gray-700">
             <p class="mb-6">
-                RealMachan is your dedicated partner in navigating the unique and picturesque real estate market of Kerala's tea plantations and hills. With our deep local knowledge, especially in areas around Kochi, Munnar, Vagamon, and Wayanad, and an extensive network, we ensure a seamless experience for both buyers and sellers.
+                RealMachan is your dedicated partner in navigating the unique and picturesque real estate market of india. With our deep local knowledge, especially in kerala and an extensive network, we ensure a seamless experience for both buyers and sellers.
             </p>
             <p class="mb-6">
                 Our mission is to connect people with their dream properties in these idyllic locales, be it a cozy hill station cottage, a sprawling tea estate, a peaceful riverside retreat, or a vibrant residency. We pride ourselves on transparency, integrity, and a personalized approach to real estate.
@@ -254,7 +254,7 @@
                 </div>
                 <div>
                     <label for="phone" class="block text-sm font-medium text-gray-700 mb-1">Phone Number (Optional)</label>
-                    <input type="tel" id="phone" name="phone" class="mt-1 block w-full px-4 py-2 border border-gray-300 rounded-md shadow-sm focus:ring-green-500 focus:border-green-500 sm:text-sm" placeholder="+91 XXXXXXXXXX">
+                    <input type="tel" id="phone" name="phone" class="mt-1 block w-full px-4 py-2 border border-gray-300 rounded-md shadow-sm focus:ring-green-500 focus:border-green-500 sm:text-sm" placeholder="+91 9207074002">
                 </div>
                 <div>
                     <label for="message" class="block text-sm font-medium text-gray-700 mb-1">Your Message</label>
